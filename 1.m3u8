@@ -1,69 +1,1171 @@
 #EXTM3U
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/110.png",Bein Sports News
-http://vvn.neoredi.com/iptv/ch110?code=590138456678768&key=44880
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/400.png",Bein Sport
-http://vvn.neoredi.com/iptv/ch400?code=590138456678768&key=63718
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/111.png",BeInSport 1 HD
-http://vvn.neoredi.com/iptv/ch111?code=590138456678768&key=54576
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/8111.png",BeInSport 1 SD
-http://vvn.neoredi.com/iptv/ch8111?code=590138456678768&key=33281
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/112.png",BeInSport 2 HD
-http://vvn.neoredi.com/iptv/ch112?code=590138456678768&key=46098
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/8112.png",BeInSport 2 SD
-http://vvn.neoredi.com/iptv/ch8112?code=590138456678768&key=12334
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/113.png",BeInSport 3 HD
-http://vvn.neoredi.com/iptv/ch113?code=590138456678768&key=39255
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/8113.png",BeInSport 3 SD
-http://vvn.neoredi.com/iptv/ch8113?code=590138456678768&key=46519
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/114.png",BeInSport 4 HD
-http://vvn.neoredi.com/iptv/ch114?code=590138456678768&key=46165
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/8114.png",BeInSport 4 SD
-http://vvn.neoredi.com/iptv/ch8114?code=590138456678768&key=40487
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/115.png",BeInSport 5 HD
-http://vvn.neoredi.com/iptv/ch115?code=590138456678768&key=45992
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/8115.png",BeInSport 5 SD
-http://vvn.neoredi.com/iptv/ch8115?code=590138456678768&key=26611
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/116.png",BeInSport 6 HD
-http://vvn.neoredi.com/iptv/ch116?code=590138456678768&key=57392
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/8116.png",BeInSport 6 SD
-http://vvn.neoredi.com/iptv/ch8116?code=590138456678768&key=29929
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/117.png",BeInSport 7 HD
-http://vvn.neoredi.com/iptv/ch117?code=590138456678768&key=58844
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/8117.png",BeInSport 7 SD
-http://vvn.neoredi.com/iptv/ch8117?code=590138456678768&key=24135
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/118.png",BeInSport 8 HD
-http://vvn.neoredi.com/iptv/ch118?code=590138456678768&key=43336
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/8118.png",BeInSport 8 SD
-http://vvn.neoredi.com/iptv/ch8118?code=590138456678768&key=39883
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/510.png",BeInSport 9 HD
-http://vvn.neoredi.com/iptv/ch510?code=590138456678768&key=27398
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/8510.png",BeInSport 9 SD
-http://vvn.neoredi.com/iptv/ch8510?code=590138456678768&key=20158
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/511.png",BeInSport 10 HD
-http://vvn.neoredi.com/iptv/ch511?code=590138456678768&key=51278
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/8511.png",BeInSport 10 SD
-http://vvn.neoredi.com/iptv/ch8511?code=590138456678768&key=15103
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/512.png",BeInSport 11 HD
-http://vvn.neoredi.com/iptv/ch512?code=590138456678768&key=55556
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/c8h512.png",BeInSport 11 SD
-http://vvn.neoredi.com/iptv/c8h512?code=590138456678768&key=56447
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/513.png",BeInSport 12 HD
-http://vvn.neoredi.com/iptv/ch513?code=590138456678768&key=55186
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/8513.png",BeInSport 12 SD
-http://vvn.neoredi.com/iptv/ch8513?code=590138456678768&key=38848
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/514.png",BeInSport 13 HD
-http://vvn.neoredi.com/iptv/ch514?code=590138456678768&key=40006
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/8514.png",BeInSport 13 SD
-http://vvn.neoredi.com/iptv/ch8514?code=590138456678768&key=11556
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/515.png",BeInSport 14 HD
-http://vvn.neoredi.com/iptv/ch515?code=590138456678768&key=18634
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/8515.png",BeInSport 14 SD
-http://vvn.neoredi.com/iptv/ch8515?code=590138456678768&key=16020
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/516.png",BeInSport 15 HD
-http://vvn.neoredi.com/iptv/ch516?code=590138456678768&key=27664
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/8516.png",BeInSport 15 SD
-http://vvn.neoredi.com/iptv/ch8516?code=590138456678768&key=21599
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/517.png",BeInSport 16 HD 
-http://vvn.neoredi.com/iptv/ch517?code=590138456678768&key=27619
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/522.png",BeInSport NBA HD 
-http://vvn.neoredi.com/iptv/ch522?code=590138456678768&key=52241
+#EXTINF:0,Ultra Ultra Luna
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/122.ts
+#EXTINF:0,Ultra Ultra Cine
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/123.ts
+#EXTINF:0,Ultra Ultra Mex
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/124.ts
+#EXTINF:0,Ultra Ultra Fiesta
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/125.ts
+#EXTINF:0,Ultra Ultra Film
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/126.ts
+#EXTINF:0,Ultra Ultra Macho
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/127.ts
+#EXTINF:0,Ultra Ultra Clasico
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/128.ts
+#EXTINF:0,Ultra Ultra Familia
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/129.ts
+#EXTINF:0,INTER ultra docu
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/148.ts
+#EXTINF:0,INTER ultra banda
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/149.ts
+#EXTINF:0,IFN USA MLB-NETWORK
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/164.ts
+#EXTINF:0,JuanR USA TENNIS CHANEL
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/165.ts
+#EXTINF:0,DEPORTES UFC TV
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/166.ts
+#EXTINF:0,INF TNT SERIES
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/307.ts
+#EXTINF:0,Ultra | ultrat ainment
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/308.ts
+#EXTINF:0,INF Cinecanal
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/357.ts
+#EXTINF:0,IFN Telemundo
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/358.ts
+#EXTINF:0,INF HBO 2
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/359.ts
+#EXTINF:0,JuanR Telemundo Miami
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/361.ts
+#EXTINF:0,JuanR Telemundo Texas
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/362.ts
+#EXTINF:0,JuanR USA NBC Universo
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/364.ts
+#EXTINF:0,IFN PR | Mega TV
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/365.ts
+#EXTINF:0,JuanR PR | Punto 2
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/366.ts
+#EXTINF:0,JuanR PR | WIPR
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/367.ts
+#EXTINF:0,IFN PR | WAPA 2
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/368.ts
+#EXTINF:0,IFN PR | Telemundo
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/369.ts
+#EXTINF:0,RAFA PR | Univision
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/370.ts
+#EXTINF:0,INF PR | Wapa
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/371.ts
+#EXTINF:0,ES Torostv
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/377.ts
+#EXTINF:0,JuanR usa outdoor
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/380.ts
+#EXTINF:0,rafa arg espn 2
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/387.ts
+#EXTINF:0,IFN unimas
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/391.ts
+#EXTINF:0,JuanR deportes fox dep
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/392.ts
+#EXTINF:0,rafa mx animal planet
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/394.ts
+#EXTINF:0,JuanR MX golf channel
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/397.ts
+#EXTINF:0,INF usa espn
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/399.ts
+#EXTINF:0,INF usa espn sec
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/400.ts
+#EXTINF:0,JuanR usa FS2
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/401.ts
+#EXTINF:0,JuanR USA  FS1
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/402.ts
+#EXTINF:0,JuanR USA ESPN DEP
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/417.ts
+#EXTINF:0,JuanR ARG ESPN
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/418.ts
+#EXTINF:0,IFN USA ESTRELLA TV
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/421.ts
+#EXTINF:0,TOTALPLAY SD | 52 MX SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/428.ts
+#EXTINF:0,TOTALPLAY SD | A&E SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/429.ts
+#EXTINF:0,TOTALPLAY SD | A+ SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/430.ts
+#EXTINF:0,TOTALPLAY SD | A3 SERIES SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/431.ts
+#EXTINF:0,TOTALPLAY SD | ADN 40 SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/432.ts
+#EXTINF:0,TOTALPLAY SD | AMC SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/433.ts
+#EXTINF:0,TOTALPLAY SD | ANIMAL PLANET SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/434.ts
+#EXTINF:0,TOTALPLAY SD | ANTENA 3 SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/435.ts
+#EXTINF:0,TOTALPLAY SD | AXN SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/436.ts
+#EXTINF:0,TOTALPLAY SD | AYM SPORTS SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/437.ts
+#EXTINF:0,TOTALPLAY SD | AZ CINEMA SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/438.ts
+#EXTINF:0,TOTALPLAY SD | AZ CLIC SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/439.ts
+#EXTINF:0,TOTALPLAY SD | AZ CORAZأ“N SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/440.ts
+#EXTINF:0,TOTALPLAY SD | AZ MUNDO SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/441.ts
+#EXTINF:0,TOTALPLAY SD | AZTECA 7 SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/442.ts
+#EXTINF:0,TOTALPLAY SD | AZTECA UNO SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/443.ts
+#EXTINF:0,TOTALPLAY SD | BABY FIRST SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/444.ts
+#EXTINF:0,TOTALPLAY SD | BANDAMAX SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/445.ts
+#EXTINF:0,TOTALPLAY SD | BLOOMBERG SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/446.ts
+#EXTINF:0,TOTALPLAY SD | BOOMERANG SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/447.ts
+#EXTINF:0,TOTALPLAY SD | CANAL 5 SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/448.ts
+#EXTINF:0,TOTALPLAY SD | CANAL 50 JUAREZ SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/449.ts
+#EXTINF:0,TOTALPLAY SD | CANAL JUDICIAL SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/450.ts
+#EXTINF:0,TOTALPLAY SD | CANAL ONCE SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/451.ts
+#EXTINF:0,TOTALPLAY SD | CARACOL
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/452.ts
+#EXTINF:0,TOTALPLAY SD | CARTOON NETWORK SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/453.ts
+#EXTINF:0,TOTALPLAY SD | CINECANAL SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/454.ts
+#EXTINF:0,TOTALPLAY SD | CINELATINO SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/455.ts
+#EXTINF:0,TOTALPLAY SD | CINEMAX SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/456.ts
+#EXTINF:0,TOTALPLAY SD | CNN EN ESPAأ‘OL SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/457.ts
+#EXTINF:0,TOTALPLAY SD | CNN INTERNACIONAL SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/458.ts
+#EXTINF:0,TOTALPLAY SD | CNN USA SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/459.ts
+#EXTINF:0,TOTALPLAY SD | COMEDY CENTRAL SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/460.ts
+#EXTINF:0,TOTALPLAY SD | CONGRESO DE LA UNIأ“N SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/461.ts
+#EXTINF:0,TOTALPLAY SD | DE PELأچCULA SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/462.ts
+#EXTINF:0,TOTALPLAY SD | DISCOVERY CHANNEL SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/463.ts
+#EXTINF:0,TOTALPLAY SD | DISCOVERY CIVILIZATION SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/464.ts
+#EXTINF:0,TOTALPLAY SD | DISCOVERY HOME & HEALTH SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/465.ts
+#EXTINF:0,TOTALPLAY SD | DISCOVERY KIDS SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/466.ts
+#EXTINF:0,TOTALPLAY SD | DISCOVERY SCIENCE SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/467.ts
+#EXTINF:0,TOTALPLAY SD | DISCOVERY THEATER SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/468.ts
+#EXTINF:0,TOTALPLAY SD | DISCOVERY TLC SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/469.ts
+#EXTINF:0,TOTALPLAY SD | DISCOVERY TURBO SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/470.ts
+#EXTINF:0,TOTALPLAY SD | DISCOVERY WORLD SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/471.ts
+#EXTINF:0,TOTALPLAY SD | DISNEY CHANNEL SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/472.ts
+#EXTINF:0,TOTALPLAY SD | DISNEY JR SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/473.ts
+#EXTINF:0,TOTALPLAY SD | DISNEY XD SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/474.ts
+#EXTINF:0,TOTALPLAY SD | DISTRITO COMEDIA SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/475.ts
+#EXTINF:0,TOTALPLAY SD | DW SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/476.ts
+#EXTINF:0,TOTALPLAY SD | E! SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/477.ts
+#EXTINF:0,TOTALPLAY SD | EL GOURMET SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/478.ts
+#EXTINF:0,TOTALPLAY SD | ESPN 1 SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/479.ts
+#EXTINF:0,TOTALPLAY SD | ESPN 2 SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/480.ts
+#EXTINF:0,TOTALPLAY SD | ESPN PLUS SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/482.ts
+#EXTINF:0,TOTALPLAY SD | ESPN SEC SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/483.ts
+#EXTINF:0,TOTALPLAY SD | ESPN U SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/484.ts
+#EXTINF:0,TOTALPLAY SD | ESTRELLA TV
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/485.ts
+#EXTINF:0,TOTALPLAY SD | FILM & ARTS SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/486.ts
+#EXTINF:0,TOTALPLAY SD | FOOD NETWORK SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/487.ts
+#EXTINF:0,TOTALPLAY SD | FORO TV SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/488.ts
+#EXTINF:0,TOTALPLAY SD | FOX LIFE SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/489.ts
+#EXTINF:0,TOTALPLAY SD | FOX PREMIUM ACTION SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/490.ts
+#EXTINF:0,TOTALPLAY SD | FOX PREMIUM CINEMA SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/491.ts
+#EXTINF:0,INF Fox comedy
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/492.ts
+#EXTINF:0,TOTALPLAY SD | FOX PREMIUM MOVIES SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/493.ts
+#EXTINF:0,INF FOX series
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/494.ts
+#EXTINF:0,TOTALPLAY SD | FOX SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/495.ts
+#EXTINF:0,TOTALPLAY SD | FOX SPORTS 1 SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/496.ts
+#EXTINF:0,TOTALPLAY SD | FOX SPORTS 2 SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/497.ts
+#EXTINF:0,TOTALPLAY SD | FOX SPORTS 3 SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/498.ts
+#EXTINF:0,TOTALPLAY SD | FRANCE 24 SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/499.ts
+#EXTINF:0,INF | FX
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/500.ts
+#EXTINF:0,INF | FXM
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/501.ts
+#EXTINF:0,TOTALPLAY SD | GALA TV SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/502.ts
+#EXTINF:0,TOTALPLAY SD | GARAGE TV SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/503.ts
+#EXTINF:0,TOTALPLAY SD | GLITZ SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/504.ts
+#EXTINF:0,TOTALPLAY SD | GOLDEN EDGE SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/505.ts
+#EXTINF:0,TOTALPLAY SD | GOLDEN SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/506.ts
+#EXTINF:0,TOTALPLAY SD | GOLF LATINOAMERICA SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/507.ts
+#EXTINF:0,TOTALPLAY SD | H2
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/508.ts
+#EXTINF:0,TOTALPLAY SD | HAVOC SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/509.ts
+#EXTINF:0,TOTALPLAY SD | HBO 1
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/510.ts
+#EXTINF:0,TOTALPLAY SD | HBO 2
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/511.ts
+#EXTINF:0,TOTALPLAY SD | HBO FAMILY
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/512.ts
+#EXTINF:0,TOTALPLAY SD | HBO SIGNATURE
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/513.ts
+#EXTINF:0,INF | HISTORY 
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/514.ts
+#EXTINF:0,TOTALPLAY SD | HOLA TV SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/515.ts
+#EXTINF:0,TOTALPLAY SD | IMAGEN TV SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/516.ts
+#EXTINF:0,TOTALPLAY SD | INGENIO TV SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/517.ts
+#EXTINF:0,TOTALPLAY SD | INVESTIGATION DISCOVERY SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/518.ts
+#EXTINF:0,TOTALPLAY SD | ISAT SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/519.ts
+#EXTINF:0,TOTALPLAY SD | LAS ESTRELLAS SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/520.ts
+#EXTINF:0,TOTALPLAY SD | LATIN AMERICA SPORTS SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/521.ts
+#EXTINF:0,TOTALPLAY SD | LIFETIME SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/522.ts
+#EXTINF:0,TOTALPLAY SD | MAS CHIC SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/523.ts
+#EXTINF:0,TOTALPLAY SD | MAX PRIME
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/524.ts
+#EXTINF:0,TOTALPLAY SD | MAX UP
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/525.ts
+#EXTINF:0,TOTALPLAY SD | MEXIQUENSE SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/526.ts
+#EXTINF:0,TOTALPLAY SD | MILENIO TV SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/527.ts
+#EXTINF:0,TOTALPLAY SD | MORBIDO TV SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/528.ts
+#EXTINF:0,TOTALPLAY SD | MTV HITS SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/529.ts
+#EXTINF:0,TOTALPLAY SD | MTV LIVE SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/530.ts
+#EXTINF:0,TOTALPLAY SD | MTV SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/531.ts
+#EXTINF:0,TOTALPLAY SD | MULTIMEDIOS MTY SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/532.ts
+#EXTINF:0,TOTALPLAY SD | MULTIMEDIOS PLUS SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/533.ts
+#EXTINF:0,TOTALPLAY SD | NATGEO SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/534.ts
+#EXTINF:0,TOTALPLAY SD | NATGEO WILD SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/535.ts
+#EXTINF:0,TOTALPLAY SD | NATGEO KIDS SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/536.ts
+#EXTINF:0,TOTALPLAY SD | NICK 2 SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/537.ts
+#EXTINF:0,TOTALPLAY SD | NICK JR SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/538.ts
+#EXTINF:0,TOTALPLAY SD | NICKTOONS SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/540.ts
+#EXTINF:0,TOTALPLAY SD | NTN 24 SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/541.ts
+#EXTINF:0,TOTALPLAY SD | PARAMOUNT CHANNEL SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/542.ts
+#EXTINF:0,TOTALPLAY SD | PASIONES SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/543.ts
+#EXTINF:0,TOTALPLAY SD | PX SPORTV SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/544.ts
+#EXTINF:0,TOTALPLAY SD | RCN SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/545.ts
+#EXTINF:0,TOTALPLAY SD | RITMOSON SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/546.ts
+#EXTINF:0,TOTALPLAY SD | RT DOCUMENTALES SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/547.ts
+#EXTINF:0,TOTALPLAY SD | RT ESPAأ‘OL SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/548.ts
+#EXTINF:0,TOTALPLAY SD | RT NOTICIAS SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/549.ts
+#EXTINF:0,TOTALPLAY SD | SHE SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/550.ts
+#EXTINF:0,TOTALPLAY SD | SONY SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/551.ts
+#EXTINF:0,TOTALPLAY SD | SPACE SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/552.ts
+#EXTINF:0,TOTALPLAY SD | STUDIO UNIVERSAL SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/553.ts
+#EXTINF:0,TOTALPLAY SD | SUNDANCE SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/554.ts
+#EXTINF:0,TOTALPLAY SD | SURES TV SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/555.ts
+#EXTINF:0,TOTALPLAY SD | SYFY SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/556.ts
+#EXTINF:0,TOTALPLAY SD | TBS SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/557.ts
+#EXTINF:0,TOTALPLAY SD | TCM SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/558.ts
+#EXTINF:0,TOTALPLAY SD | TELEFORMULA SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/559.ts
+#EXTINF:0,TOTALPLAY SD | TELEHIT SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/560.ts
+#EXTINF:0,TOTALPLAY SD | TELERITMO SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/561.ts
+#EXTINF:0,TOTALPLAY SD | TELEVISA MONTERREY SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/562.ts
+#EXTINF:0,TOTALPLAY SD | TELEVISA PUEBLA SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/563.ts
+#EXTINF:0,TOTALPLAY SD | TELEVISA TIJUANA SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/564.ts
+#EXTINF:0,TOTALPLAY SD | TLNOVELAS SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/566.ts
+#EXTINF:0,TOTALPLAY SD | TNT SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/567.ts
+#EXTINF:0,TOTALPLAY SD | TOONCAST SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/569.ts
+#EXTINF:0,TOTALPLAY SD | TRUTV SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/570.ts
+#EXTINF:0,TOTALPLAY SD | TV4 SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/571.ts
+#EXTINF:0,TOTALPLAY SD | TVC DEPORTES SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/572.ts
+#EXTINF:0,TOTALPLAY SD | TVC SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/573.ts
+#EXTINF:0,TOTALPLAY SD | TVE SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/574.ts
+#EXTINF:0,TOTALPLAY SD | TV MAS SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/575.ts
+#EXTINF:0,TOTALPLAY SD | UNICABLE SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/576.ts
+#EXTINF:0,TOTALPLAY SD | UNIVERSAL CHANNEL SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/577.ts
+#EXTINF:0,TOTALPLAY SD | VH1 CLASSICS SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/578.ts
+#EXTINF:0,TOTALPLAY SD | VH1 SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/579.ts
+#EXTINF:0,TOTALPLAY SD | WINSPORTS
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/581.ts
+#EXTINF:0,TOTALPLAY SD | WOBI SD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/582.ts
+#EXTINF:0,TOTALPLAY SD | ULTRA CINE
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/583.ts
+#EXTINF:0,TOTALPLAY SD I ULTRA CLأپSICO
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/584.ts
+#EXTINF:0,TOTALPLAY SD I ULTRA DOCU
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/585.ts
+#EXTINF:0,TOTALPLAY SD I ULTRA FAMILIA
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/586.ts
+#EXTINF:0,TOTALPLAY SD I ULTRA FIESTA
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/587.ts
+#EXTINF:0,TOTALPLAY SD I ULTRA FILM
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/588.ts
+#EXTINF:0,TOTALPLAY SD I ULTRA MACHO
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/589.ts
+#EXTINF:0,TOTALPLAY SD I ULTRA MEX
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/590.ts
+#EXTINF:0,TOTALPLAY SD I ULTRA TAINMENT
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/591.ts
+#EXTINF:0,TOTALPLAY SD | CLARO SPORTS
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/592.ts
+#EXTINF:0,IFN inter GOLTV
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/593.ts
+#EXTINF:0,INF HBO
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/595.ts
+#EXTINF:0,JuanR mx hbo plus
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/597.ts
+#EXTINF:0,INF usa tudn
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/598.ts
+#EXTINF:0,INF AXN Black
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/639.ts
+#EXTINF:0,INF AXN White
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/640.ts
+#EXTINF:0,INF Starz Encore Action
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/641.ts
+#EXTINF:0,INF Starz Encore Classics
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/642.ts
+#EXTINF:0,INF Starz Encore Suspense
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/643.ts
+#EXTINF:0,INF Starz Encore Western
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/644.ts
+#EXTINF:0,INF Starz West
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/645.ts
+#EXTINF:0,INF Starz Latino
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/646.ts
+#EXTINF:0,INF Starz Kids & Family
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/647.ts
+#EXTINF:0,INF Starz In Black
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/648.ts
+#EXTINF:0,INF Starz Edge
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/649.ts
+#EXTINF:0,INF Starz East
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/650.ts
+#EXTINF:0,INF Starz Comedy East
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/651.ts
+#EXTINF:0,INF STARZ CINEMA EAST
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/652.ts
+#EXTINF:0,INF SHOWTIME WEST
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/653.ts
+#EXTINF:0,INF SHOWTIME SHOWCASE EAST
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/654.ts
+#EXTINF:0,INF SHOWTIME NEXT
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/655.ts
+#EXTINF:0,INF SHOWTIME LATINO
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/656.ts
+#EXTINF:0,INF SHOWTIME EXTREME EAST
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/657.ts
+#EXTINF:0,INF SHOWTIME EAST HD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/658.ts
+#EXTINF:0,INF SHOWTIME 2 EAST HD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/659.ts
+#EXTINF:0,INF HOLLYWOOD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/660.ts
+#EXTINF:0,INF The Movie Channel Xtra
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/661.ts
+#EXTINF:0,INF The Movie Channel
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/662.ts
+#EXTINF:0,INF STUDIO UNIVERSAL
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/663.ts
+#EXTINF:0,INF SPACE
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/664.ts
+#EXTINF:0,INF SONY MOVIE CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/665.ts
+#EXTINF:0,INF MULTIPREMIER
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/666.ts
+#EXTINF:0,INF HBO FAMILY ENG
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/667.ts
+#EXTINF:0,INF HBO Comedy East
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/668.ts
+#EXTINF:0,INF HALLMARK MOVIES & MYSTERIES
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/669.ts
+#EXTINF:0,INF HALLMARK DRAMA
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/670.ts
+#EXTINF:0,INF HALLMARK
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/671.ts
+#EXTINF:0,INF GOLDEN PREMIER 1
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/672.ts
+#EXTINF:0,INF GOLDEN HD PLUS
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/673.ts
+#EXTINF:0,INF FXM ENG
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/674.ts
+#EXTINF:0,INF FX ENG
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/675.ts
+#EXTINF:0,INF FREE FORM
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/676.ts
+#EXTINF:0,INF USA TV Land
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/677.ts
+#EXTINF:0,INF CINEMAX EAST
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/678.ts
+#EXTINF:0,INF 24/7 Los locos Addams
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/679.ts
+#EXTINF:0,INF 24/7 el patrأ³n del mal
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/680.ts
+#EXTINF:0,INF 24/7 xmen
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/681.ts
+#EXTINF:0,INF 24/7 twd
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/682.ts
+#EXTINF:0,INF 24/7 thundercats
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/683.ts
+#EXTINF:0,INF 24/7 terror
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/684.ts
+#EXTINF:0,INF 24/7 super campeones
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/685.ts
+#EXTINF:0,INF 24/7 strangerthings
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/686.ts
+#EXTINF:0,INF 24/7 spiderman
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/687.ts
+#EXTINF:0,INF 24/7 south Park
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/688.ts
+#EXTINF:0,INF 24/7 smallville
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/689.ts
+#EXTINF:0,INF 24/7 simpsons
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/690.ts
+#EXTINF:0,INF 24/7 shera
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/691.ts
+#EXTINF:0,INF 24/7 sailor
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/692.ts
+#EXTINF:0,INF 24/7 robotech
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/693.ts
+#EXTINF:0,INF 24/7 powerangers
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/694.ts
+#EXTINF:0,INF 24/7 pokemon
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/695.ts
+#EXTINF:0,INF 24/7 pinky
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/696.ts
+#EXTINF:0,INF 24/7 naruto
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/697.ts
+#EXTINF:0,INF 24/7 mazingerz
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/698.ts
+#EXTINF:0,INF 24/7 maravillosos
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/699.ts
+#EXTINF:0,INF 24/7 malcolm
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/700.ts
+#EXTINF:0,INF 24/7 luis miguel
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/701.ts
+#EXTINF:0,INF 24/7 he man
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/702.ts
+#EXTINF:0,INF 24/7 El seأ±or de los cielos
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/703.ts
+#EXTINF:0,INF 24/7 El Chema
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/704.ts
+#EXTINF:0,INF 24/7 El Chavo del 8
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/705.ts
+#EXTINF:0,INF 24/7 El Chapulأ­n Colorado
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/706.ts
+#EXTINF:0,INF 24/7 Dragon Ball Z
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/707.ts
+#EXTINF:0,INF 24/7 Dragon Ball Super
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/708.ts
+#EXTINF:0,INF 24/7 Dragon Ball GT
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/709.ts
+#EXTINF:0,INF 24/7 Dinosaurios
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/710.ts
+#EXTINF:0,INF 24/7 DESAFIO SOBRE FUGO LATINAMERICA
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/711.ts
+#EXTINF:0,INF 24/7 casapapel
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/712.ts
+#EXTINF:0,INF 24/7 caballeros del zodiaco
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/713.ts
+#EXTINF:0,INF 24/7 Alf 24/7
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/714.ts
+#EXTINF:0,INF NBA | Philadelphia 76ers
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/715.ts
+#EXTINF:0,INF NBA | Toronto Raptors
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/716.ts
+#EXTINF:0,NBA | Charlotte Hornets
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/717.ts
+#EXTINF:0,NBA | Sacramento Kings
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/718.ts
+#EXTINF:0,INF WWE NET
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/719.ts
+#EXTINF:0,inf cinemax
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/721.ts
+#EXTINF:0,TOTALPLAY HD |آ A&E
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/722.ts
+#EXTINF:0,TOTALPLAY HD |آ A3 SERIES
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/724.ts
+#EXTINF:0,TOTALPLAY HD |آ ADN 40
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/725.ts
+#EXTINF:0,TOTALPLAY HD |آ AMC
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/728.ts
+#EXTINF:0,TOTALPLAY HD |آ ANIMAL PLANET
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/729.ts
+#EXTINF:0,TOTALPLAY HD |آ ANTENA 3
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/730.ts
+#EXTINF:0,TOTALPLAY HD |آ AXN
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/731.ts
+#EXTINF:0,TOTALPLAY HD |آ AZTECA 7
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/732.ts
+#EXTINF:0,TOTALPLAY HD |آ AZTECA UNO
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/733.ts
+#EXTINF:0,TOTALPLAY HD |آ AZ CLIC
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/734.ts
+#EXTINF:0,TOTALPLAY HD |آ AZ MUNDO
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/736.ts
+#EXTINF:0,TOTALPLAY HD |آ BABY FIRST
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/737.ts
+#EXTINF:0,TOTALPLAY HD |آ BLOOMBERG
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/741.ts
+#EXTINF:0,TOTALPLAY HD |آ BOOMERANG
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/742.ts
+#EXTINF:0,TOTALPLAY HD |آ CANAL 5
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/743.ts
+#EXTINF:0,TOTALPLAY HD |آ CANAL DEL CONGRESO
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/744.ts
+#EXTINF:0,TOTALPLAY HD |آ CARTOON NETWORK
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/745.ts
+#EXTINF:0,TOTALPLAY HD |آ CINECANAL
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/747.ts
+#EXTINF:0,TOTALPLAY HD |آ CINEMAX
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/748.ts
+#EXTINF:0,TOTALPLAY HD |آ CNN USA
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/750.ts
+#EXTINF:0,TOTALPLAY HD |آ COMEDY CENTRAL
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/753.ts
+#EXTINF:0,TOTALPLAY HD |آ DE PELICULA PLUS
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/754.ts
+#EXTINF:0,TOTALPLAY HD |آ DISCOVERY CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/755.ts
+#EXTINF:0,TOTALPLAY HD |آ DISCOVERY HOME & HEALTH
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/757.ts
+#EXTINF:0,TOTALPLAY HD |آ DISCOVERY KIDS
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/758.ts
+#EXTINF:0,TOTALPLAY HD |آ DISCOVERY THEATER
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/760.ts
+#EXTINF:0,TOTALPLAY HD |آ DISCOVERY TURBO
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/761.ts
+#EXTINF:0,TOTALPLAY HD |آ DISNEY XD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/764.ts
+#EXTINF:0,TOTALPLAY HD |آ E! ENTERTAINMENT
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/766.ts
+#EXTINF:0,TOTALPLAY HD |آ EL FINANCIERO
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/767.ts
+#EXTINF:0,TOTALPLAY HD |آ ESPN 1
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/768.ts
+#EXTINF:0,TOTALPLAY HD |آ ESPN+
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/769.ts
+#EXTINF:0,TOTALPLAY HD |آ El GOURMET
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/774.ts
+#EXTINF:0,TOTALPLAY HD |آ FOOD NETWORK
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/776.ts
+#EXTINF:0,TOTALPLAY HD |آ FORO TV
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/777.ts
+#EXTINF:0,TOTALPLAY HD |آ FOX
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/778.ts
+#EXTINF:0,TOTALPLAY HD |آ FOX PREMIUM ACTION
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/779.ts
+#EXTINF:0,TOTALPLAY HD |آ FOX LIFE
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/780.ts
+#EXTINF:0,TOTALPLAY HD |آ FOX PREMIUM MOVIES
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/781.ts
+#EXTINF:0,TOTALPLAY HD |آ FOX PREMIUM SERIES
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/783.ts
+#EXTINF:0,TOTALPLAY HD |آ FOX SPORTS 1
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/784.ts
+#EXTINF:0,TOTALPLAY HD |آ FOX SPORTS 2
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/785.ts
+#EXTINF:0,TOTALPLAY HD |آ FOX SPORTS 3
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/786.ts
+#EXTINF:0,TOTALPLAY HD |آ FRANCE 24
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/787.ts
+#EXTINF:0,TOTALPLAY HD |آ FX
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/789.ts
+#EXTINF:0,TOTALPLAY HD |آ FX MOVIES
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/790.ts
+#EXTINF:0,TOTALPLAY HD |آ GALA TV
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/791.ts
+#EXTINF:0,TOTALPLAY HD |آ GOLDEN
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/793.ts
+#EXTINF:0,TOTALPLAY HD |آ GOLDEN PLUS
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/795.ts
+#EXTINF:0,TOTALPLAY HD |آ HAVOC
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/798.ts
+#EXTINF:0,TOTALPLAY HD |آ HISTORY
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/799.ts
+#EXTINF:0,TOTALPLAY HD |آ HOLA TV
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/801.ts
+#EXTINF:0,TOTALPLAY HD |آ IMAGEN TELEVISION
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/803.ts
+#EXTINF:0,TOTALPLAY HD |آ INVESTIGATION DISCOVERY
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/805.ts
+#EXTINF:0,TOTALPLAY HD |آ LAS ESTRELLAS
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/807.ts
+#EXTINF:0,TOTALPLAY HD |آ LIFETIME
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/808.ts
+#EXTINF:0,TOTALPLAY HD |آ MEXIQUENSE
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/809.ts
+#EXTINF:0,TOTALPLAY HD |آ MILENIO TV ****
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/810.ts
+#EXTINF:0,TOTALPLAY HD |آ MORBIDO TV
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/811.ts
+#EXTINF:0,TOTALPLAY HD |آ MTV
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/812.ts
+#EXTINF:0,TOTALPLAY HD |آ MTV LIVE
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/814.ts
+#EXTINF:0,TOTALPLAY HD |آ MULTIMEDIOS
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/815.ts
+#EXTINF:0,TOTALPLAY HD |آ MULTIMEDIOS PLUS
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/816.ts
+#EXTINF:0,TOTALPLAY HD |آ NATGEO KIDS
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/817.ts
+#EXTINF:0,TOTALPLAY HD |آ NATGEO WILD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/818.ts
+#EXTINF:0,TOTALPLAY HD |آ NICK
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/820.ts
+#EXTINF:0,TOTALPLAY HD |آ NICK 2
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/821.ts
+#EXTINF:0,TOTALPLAY HD |آ ONCE TV
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/825.ts
+#EXTINF:0,TOTALPLAY HD |آ PARAMOUNT
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/826.ts
+#EXTINF:0,TOTALPLAY HD |آ RT ESPANOL
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/832.ts
+#EXTINF:0,TOTALPLAY HD |آ SONY
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/834.ts
+#EXTINF:0,TOTALPLAY HD |آ SPACE
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/835.ts
+#EXTINF:0,TOTALPLAY HD |آ STAR TVE HD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/836.ts
+#EXTINF:0,TOTALPLAY HD |آ STUDIO UNIVERSAL
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/837.ts
+#EXTINF:0,TOTALPLAY HD |آ SUNDANCE TV
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/838.ts
+#EXTINF:0,TOTALPLAY HD |آ SYFY
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/839.ts
+#EXTINF:0,TOTALPLAY HD |آ TELEFORMULA
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/842.ts
+#EXTINF:0,TOTALPLAY HD |آ TELEHIT PLUS
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/843.ts
+#EXTINF:0,TOTALPLAY HD |آ TELEVISA MONTERREY
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/845.ts
+#EXTINF:0,TOTALPLAY HD |آ TELEVISA PUEBLA
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/846.ts
+#EXTINF:0,TOTALPLAY HD |آ TLC DISCOVERY
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/847.ts
+#EXTINF:0,TOTALPLAY HD |آ TNT
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/850.ts
+#EXTINF:0,TOTALPLAY HD |آ TNT SERIES
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/851.ts
+#EXTINF:0,TOTALPLAY HD |آ TRU TV
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/853.ts
+#EXTINF:0,TOTALPLAY HD |آ TV4 GUANAJUATO
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/855.ts
+#EXTINF:0,TOTALPLAY HD |آ TVC
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/856.ts
+#EXTINF:0,TOTALPLAY HD |آ TVC DEPORTES
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/857.ts
+#EXTINF:0,TOTALPLAY HD |آ TV MAS
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/859.ts
+#EXTINF:0,TOTALPLAY HD |آ UNICABLE
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/860.ts
+#EXTINF:0,TOTALPLAY HD |آ UNIVERSAL CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/861.ts
+#EXTINF:0,TOTALPLAY HD |آ VH1
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/863.ts
+#EXTINF:0,TOTALPLAY HD |آ WARNER
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/865.ts
+#EXTINF:0,TOTALPLAY HD |آ WOBI
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/866.ts
+#EXTINF:0,TOTALPLAY HD |آ DISCOVERY WORLD
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/867.ts
+#EXTINF:0,TOTALPLAY HD |آ CANAL JUDICIAL
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/868.ts
+#EXTINF:0,TOTALPLAY HD |آ ESPN SEC NETWORK
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/871.ts
+#EXTINF:0,TOTALPLAY HD |آ MAS CHIC
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/872.ts
+#EXTINF:0,TOTALPLAY HD | RT NOTICIAS
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/873.ts
+#EXTINF:0,TOTALPLAY HD |آ SURESTV
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/874.ts
+#EXTINF:0,TOTALPLAY HD |آ GOLF CHANNEL LATINOAMERICA
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/875.ts
+#EXTINF:0,AZ CINEMA
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/876.ts
+#EXTINF:0,ESPN U
+#EXTVLCOPT:network-caching=1000
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/877.ts
